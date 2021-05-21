@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chiragblogs-staging-130500-authRole",
+      "UnauthRoleArn": "arn:aws:iam::039107888678:role/amplify-chiragblogs-staging-130500-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::039107888678:role/amplify-chiragblogs-staging-130500-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-chiragblogs-staging-130500-deployment",
+      "UnauthRoleName": "amplify-chiragblogs-staging-130500-unauthRole",
+      "StackName": "amplify-chiragblogs-staging-130500",
+      "StackId": "arn:aws:cloudformation:us-east-2:039107888678:stack/amplify-chiragblogs-staging-130500/fc0bc0c0-b96b-11eb-9549-02c4dcc2fcca",
+      "AmplifyAppId": "d5d4ixqnq3518"
+    }
+  }
+}
